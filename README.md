@@ -1,4 +1,4 @@
-# DostavaRobe
+# Delivery of goods
 A web apk. where the user can search available vehicles and rent them for delivery purposes
 
 #Please remember to install the following packages:
