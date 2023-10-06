@@ -1,0 +1,38 @@
+.glavni{
+    display: flex;
+    flex-direction: row;
+}
+
+.levi{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    width: 400px;
+
+    justify-content: space-evenly;
+}
+
+.desni{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.kartica{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    width: 220px;
+    border-radius: 10px;
+    justify-content: space-evenly;
+}
+
+.red2K{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.slika{
+    display: flex;
+    width: 35%;
+}
